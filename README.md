@@ -3,7 +3,7 @@ Docker Image for a dedicated Counter-Strike 1.6 server with metamod, amxmodx and
 
 
 
-## Usage
+## Usage: docker run
 
 The fastest way to set this up is to pull the image and start it via `docker run`.
 
@@ -19,6 +19,13 @@ Port 27015 is required by Counter-Strike 1.6 game server.
 
 Port 80 is used to serve assets (maps, gfxs etc.) via http for fast download feature. 
 
+## Usage: docker compose
+
+To run this project in a single command use `docker compose`
+
+>``` bash
+>docker compose up -d
+>```
 
 ## Available build variables
 
