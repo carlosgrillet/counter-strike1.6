@@ -1,0 +1,10 @@
+L 08/05/2023 - 20:11:50: -------- Mapchange to de_dust2 --------
+L 08/05/2023 - 20:12:00: -------- Mapchange to de_dust2 --------
+L 08/05/2023 - 20:29:00: -------- Mapchange to de_dust2 --------
+L 08/05/2023 - 20:29:11: -------- Mapchange to de_dust2 --------
+L 08/05/2023 - 20:48:38: -------- Mapchange to de_dust2 --------
+L 08/05/2023 - 20:48:49: -------- Mapchange to de_dust2 --------
+L 08/05/2023 - 20:49:29: [admin.amxx] Login: "Player<1><STEAM_0:1:215223040><>" became an admin (account "STEAM_0:1:215223040") (access "abcdefghijklmnopqrstu") (address "181.208.115.23")
+L 08/05/2023 - 20:52:23: [adminchat.amxx] Chat: "Player<1><STEAM_0:1:215223040><>" csay "Hola"
+L 08/05/2023 - 20:55:45: [adminvote.amxx] Vote: "Player<1><STEAM_0:1:215223040><>" vote custom (question "Ir a otro server?") (option#1 "Sip") (option#2 "nop")
+L 08/05/2023 - 20:55:57: [adminvote.amxx] Vote: Voting failed (got "0") (needed "1")

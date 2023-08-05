@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Server welcome</title>
+<style type="text/css">
+       body {
+            background: #000;
+            margin: 8px;
+            color: #FFB000;
+            font: normal 16px/20px Verdana, Tahoma, sans-serif;
+        }
+
+        a {
+            color: #FFF;
+            text-decoration: underline;
+        }
+
+        a:hover {
+            color: #EEE;
+            text-decoration: none;
+        }
+</style>
+</head>
+<body>
+Welcome to Carlos's server, 0 maricoteo<br>
+Server for los panas<br>
+<a href="https://carlosgrillet.me">Carlos Grillet</a>
+</body>
+</html>

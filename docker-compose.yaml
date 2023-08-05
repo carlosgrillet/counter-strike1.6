@@ -1,0 +1,22 @@
+version: '3'
+services:
+  cs-server:
+    image: archont94/counter-strike1.6
+    container_name: cs-server
+    hostname: cs-server
+    volumes:
+      - ./cstrike:/hlds/cstrike
+    ports:
+      - 27015:27015/tcp
+      - 27015:27015/udp
+    networks:
+      - cs16-net 
+    deploy:
+      resources:
+        limits:
+          cpus: '2.0'
+          memory: 300M
+
+networks:
+  cs16-net:
+    external: true
