@@ -1,7 +1,8 @@
 version: '3'
 services:
   cs-server:
-    image: archont94/counter-strike1.6
+    build: .
+    image: counter-strike1.6
     container_name: cs-server
     hostname: cs-server
     volumes:
